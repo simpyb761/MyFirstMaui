@@ -1,0 +1,1 @@
+C:\Users\simpy\OneDrive\Documents\GitHub\MyFirstMaui\MyFirstMauiApp\MyFirstMauiApp\MyFirstMauiApp.csproj;x64
